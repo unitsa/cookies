@@ -1,0 +1,11 @@
+.row{
+    text-align: justify;
+}
+
+section {
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-Images-Cookie-Monster-HD-Wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: whitesmoke;
+  }
